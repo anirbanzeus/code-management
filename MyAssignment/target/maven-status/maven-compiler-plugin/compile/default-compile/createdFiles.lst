@@ -1,0 +1,5 @@
+com/fse/assignment/controller/SimpleController.class
+com/fse/assignment/persistence/model/Book.class
+com/fse/assignment/config/Application.class
+com/fse/assignment/persistence/repo/BookRepository.class
+com/fse/assignment/persistence/model/Sample.class
